@@ -3,6 +3,10 @@ kindly add the these players in next match
 2.vk
 3.st
 as arequest given by india team
+<<<<<<< HEAD
 ambani
 rajugandi
 salam
+=======
+its fine
+>>>>>>> master
