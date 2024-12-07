@@ -4,6 +4,6 @@ curl https://packages.grafana.com/gpg.key | sudo apt-key add -
 sudo apt-get update
 sudo apt-get -y install grafana
 
-systemctl daemon-reload
-systemctl start grafana-server
-systemctl enable grafana-server.service
+sudo systemctl daemon-reload
+sudo systemctl start grafana-server
+sudo systemctl enable grafana-server.service
